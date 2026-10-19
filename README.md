@@ -1,26 +1,75 @@
-<h1 align="center">Hi 👋, I'm Gokdemir Uzunkaya</h1>
-<h3 align="center">Sofware developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skyfelongrock&label=Profile%20views&color=0e75b6&style=flat" alt="skyfelongrock" /> </p>
-
-- 🌱 I’m currently learning **DevOps**
-
-- 📫 How to reach me **gokdemir.uzunkaya@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gokdemiruzunkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokdemiruzunkaya" height="30" width="40" /></a>
-<a href="https://instagram.com/gokdemiruzunkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokdemiruzunkaya" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Gökdemir Uzunkaya — Cloud Software Engineer. Java, Spring, AWS and Vue." width="1120" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h1 align="center">Cloud software, from API to UI.</h1>
 
-[![Skyfelongrock's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=skyfelongrock&&theme=xcode)](https://github.com/skyfelongrock)
+<p align="center">
+  <strong>Cloud Software Engineer</strong> · Backend &amp; Full-Stack · Türkiye
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skyfelongrock&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="skyfelongrock" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gokdemiruzunkaya/"><strong>LinkedIn ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:gokdemir.uzunkaya@gmail.com"><strong>Email ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/skyfelongrock?tab=repositories"><strong>Explore my code ↗</strong></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skyfelongrock&show_icons=true&locale=en&theme=tokyonight" alt="skyfelongrock" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skyfelongrock&&theme=tokyonight" alt="skyfelongrock" /></p>
+## About me
+
+I'm **Gökdemir Uzunkaya**, a software engineer working across **Java & Spring**, **AWS**, and **Vue.js**. I build backend services and the interfaces that make them useful, with a focus on clear behavior, maintainable code, and practical problem solving.
+
+I enjoy following a feature through the whole system: from the API and data model to the interface, tests, and logs that explain what happens in production.
+
+## What I work on
+
+- **Backend & APIs** — Spring Boot services, REST integrations, and communication between microservices.
+- **Cloud & delivery** — AWS, CI/CD workflows, containers, and visibility into running systems.
+- **Web interfaces** — Vue.js features, dashboards, and data visualizations.
+- **Quality & debugging** — Automated tests, log analysis, and tracing behavior across service boundaries.
+
+## Tools I work with
+
+| Area | Technologies |
+| :--- | :--- |
+| **Backend** | Java · Spring Boot · REST APIs |
+| **Cloud** | AWS Lambda · S3 · EC2 · CloudFormation · CloudWatch |
+| **Frontend** | JavaScript · Vue.js · HTML · CSS · D3.js |
+| **Data** | SQL · PostgreSQL · MySQL · Redis |
+| **Build & automation** | Python · Docker · Jenkins · Maven · Git · Linux |
+| **Testing** | JUnit · Mockito · Vitest · Postman |
+
+## How I approach engineering
+
+**Understand the behavior. Keep the solution clear. Verify the result.**
+
+I like changes that solve a concrete problem, are easy to review, and leave the next person with code they can understand. Good tests and useful diagnostics are part of that work.
+
+## Explore my GitHub
+
+Browse my [public repositories](https://github.com/skyfelongrock?tab=repositories) for code, experiments, and projects I follow.
+
+<details>
+<summary><strong>Earlier Java &amp; Spring projects · 2022</strong></summary>
+
+These learning projects are part of my Java and Spring foundations:
+
+| Project | Focus |
+| :--- | :--- |
+| [RegisterLogin](https://github.com/skyfelongrock/RegisterLogin) | Authentication with Spring Security and JWT, relational persistence, and service communication with Retrofit. |
+| [Blog](https://github.com/skyfelongrock/Blog) | A Spring Boot blog service with REST endpoints, Thymeleaf views, and MySQL. |
+| [Daily](https://github.com/skyfelongrock/Daily) | A Spring Boot CRUD service with JPA, H2, and OpenAPI documentation. |
+| [SOLID examples](https://github.com/skyfelongrock/solid-examples) | Small Java examples exploring the five SOLID design principles. |
+
+</details>
+
+---
+
+<p align="center">
+  Interested in cloud, backend, or full-stack engineering? <a href="mailto:gokdemir.uzunkaya@gmail.com"><strong>Let's connect.</strong></a>
+  <br />
+  <sub><a href="https://www.linkedin.com/in/gokdemiruzunkaya/">LinkedIn</a> · <a href="https://www.instagram.com/gokdemiruzunkaya/">Instagram</a> · <a href="https://github.com/skyfelongrock?tab=overview">GitHub activity</a></sub>
+</p>
