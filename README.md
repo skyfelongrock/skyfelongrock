@@ -59,7 +59,7 @@ I like changes that solve a concrete problem, are easy to review, and leave the 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyfelongrock&amp;name=G%C3%B6kdemir%20Uzunkaya&amp;theme=github_dark&amp;bg_color=0b1220&amp;title_color=f2f6ff&amp;text_color=b6c8db&amp;border_color=294055&amp;chart_color=7de7cd" alt="Gökdemir Uzunkaya's GitHub contributions over the past year, grouped by month" width="1120" />
   </a>
   <br />
-  <sub>GitHub contributions over the past year · Monthly activity</sub>
+  <sub>Monthly activity: past year · Contribution total: all time · Public repos: excluding forks</sub>
 </p>
 
 ## Explore my GitHub
