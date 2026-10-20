@@ -4,9 +4,9 @@ The profile chart is generated from GitHub GraphQL `contributionsCollection.cont
 
 ## Coverage and setup
 
-The workflow runs every six hours and can be run manually from **Actions  Update contribution calendar  Run workflow**. Scheduled jobs can be delayed; the SVG always shows its actual update time. GitHub can disable schedules after 60 days of inactivity in a public repository; re-enable the workflow if necessary.
+The workflow runs every six hours and can be run manually from **Actions → Update contribution calendar → Run workflow**. Scheduled jobs can be delayed; the SVG always shows its actual update time. GitHub can disable schedules after 60 days of inactivity in a public repository; re-enable the workflow if necessary.
 
-1. On your GitHub profile, open **Contribution settings  Private contributions** to share anonymized private contribution counts. This is a privacy choice; the automation does not change this account setting.
+1. On your GitHub profile, open **Contribution settings → Private contributions** to share anonymized private contribution counts. This is a privacy choice; the automation does not change this account setting.
 2. The default `GITHUB_TOKEN` is restricted to this profile repository. It does not gain access to other private repositories. If GitHub returns nonzero `restrictedContributionsCount`, the chart labels the calendar **Public + shared private contributions**. Zero does not prove there is no private work; otherwise coverage remains **API-visible contributions; private coverage unverified**.
 3. For an owner-authorized query, create an expiring **classic personal access token** with only **`read:user`** and save it as the repository Actions secret **`PROFILE_CONTRIBUTIONS_TOKEN`**. Do not grant `repo`, `workflow`, or write scopes. Do not paste the token into README, an issue, source code, or chat. Organization policies may limit visibility. A fine-grained token is not supported by this implementation's explicit classic-scope verification.
 4. Run the workflow. It checks that an optional token belongs to `skyfelongrock` and reports `read:user` (or its parent `user`) in GitHub's scope header. The chart then labels the data **Public + private contributions returned to owner (read:user)**. This describes the API result, not all work performed or all commits across every branch. Compare the same dates on GitHub's native contribution calendar. No fixed target total is assumed.
@@ -34,4 +34,3 @@ References:
 - [Private contribution visibility](https://docs.github.com/en/account-and-profile/how-tos/contribution-settings/manage-visibility-settings-for-private-contributions-and-achievements)
 - [GITHUB_TOKEN scope](https://docs.github.com/en/actions/concepts/security/github_token)
 - [Previous chart's upstream query](https://github.com/vn7n24fzkq/github-profile-summary-cards/blob/main/src/github-api/profile-details.ts)
-

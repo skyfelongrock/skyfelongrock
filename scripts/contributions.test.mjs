@@ -25,4 +25,3 @@ test('does not claim private coverage from zero restricted contributions', () =>
   assert.match(summarize(c,start,end,false).coverage,/unverified/);
   assert.match(summarize(c,start,end,true).coverage,/read:user/);
 });
-
