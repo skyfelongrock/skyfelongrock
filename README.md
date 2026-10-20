@@ -16,6 +16,10 @@
   <a href="https://github.com/skyfelongrock?tab=repositories"><strong>Explore my code ↗</strong></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skyfelongrock&amp;label=Profile+views&amp;color=0f766e&amp;style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ## About me
@@ -47,6 +51,16 @@ I enjoy following a feature through the whole system: from the API and data mode
 **Understand the behavior. Keep the solution clear. Verify the result.**
 
 I like changes that solve a concrete problem, are easy to review, and leave the next person with code they can understand. Good tests and useful diagnostics are part of that work.
+
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/skyfelongrock?tab=overview">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyfelongrock&amp;name=G%C3%B6kdemir%20Uzunkaya&amp;theme=github_dark&amp;bg_color=0b1220&amp;title_color=f2f6ff&amp;text_color=b6c8db&amp;border_color=294055&amp;chart_color=7de7cd" alt="Gökdemir Uzunkaya's GitHub contributions over the past year, grouped by month" width="1120" />
+  </a>
+  <br />
+  <sub>GitHub contributions over the past year · Monthly activity</sub>
+</p>
 
 ## Explore my GitHub
 
