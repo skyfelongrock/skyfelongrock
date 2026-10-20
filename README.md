@@ -17,7 +17,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skyfelongrock&amp;label=Profile+views&amp;color=0f766e&amp;style=flat-square" alt="Profile views" />
+  <!-- Historical baseline: 509 Komarev profile views observed on 2026-10-20; extraCount preserves this total after migration. -->
+  <img src="https://hits.sh/github.com/skyfelongrock.svg?extraCount=509&amp;label=Profile%20views&amp;color=%230f766e&amp;style=flat-square" alt="Profile views" />
 </p>
 
 ---
