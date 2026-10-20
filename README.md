@@ -53,18 +53,16 @@ I enjoy following a feature through the whole system: from the API and data mode
 
 I like changes that solve a concrete problem, are easy to review, and leave the next person with code they can understand. Good tests and useful diagnostics are part of that work.
 
-## GitHub activity
+## Public GitHub activity
 
 <p align="center">
   <a href="https://github.com/skyfelongrock?tab=overview">
-    <img src="./assets/github-activity.svg" alt="GitHub contribution calendar: monthly totals, last 365 days and last 30 days, with coverage and update timestamp" width="1120" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skyfelongrock&amp;name=G%C3%B6kdemir%20Uzunkaya&amp;theme=github_dark&amp;bg_color=0b1220&amp;title_color=f2f6ff&amp;text_color=b6c8db&amp;border_color=294055&amp;chart_color=7de7cd" alt="Gökdemir Uzunkaya's publicly visible GitHub contributions over the past year, grouped by month" width="1120" />
   </a>
   <br />
-  <sub>GitHub calendar contributions · Last 365 / 30 calendar days · Updated automatically every 6 hours</sub>
+  <sub>Publicly visible activity · Monthly chart: past year · Visible total: all time · Public repos: excluding forks</sub>
   <br />
-  <sub>Private activity is included only when returned by GitHub; the image states the verified access scope. Counts are not all commits or hours worked.</sub>
-  <br />
-  <sub><a href="./docs/contribution-activity.md">Data coverage, privacy &amp; verification</a> · A failed refresh keeps the previous timestamped snapshot.</sub>
+  <sub>These metrics may not include contributions to private repositories.</sub>
 </p>
 
 ## Explore my GitHub
