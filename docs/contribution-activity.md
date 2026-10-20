@@ -15,7 +15,7 @@ Private contributions are never added to `totalContributions`: the calendar alre
 
 ## Safety and failure behavior
 
-The only API fields requested are viewer login, daily dates/counts, calendar total, and restricted count. No repository names, commit messages, source files, issue titles, or private URLs are requested. The API response is kept in memory. Only `assets/contributions.svg` is committed. The optional read token is confined to the fetch step; the separate built-in repository token publishes the SVG.
+The only API fields requested are viewer login, daily dates/counts, calendar total, and restricted count. No repository names, commit messages, source files, issue titles, or private URLs are requested. The API response is kept in memory. Only `assets/github-activity.svg` is committed. The optional read token is confined to the fetch step; the separate built-in repository token publishes the SVG.
 
 Checkout is pinned to a verified commit and does not persist credentials. No third-party chart action runs with the token. There is no pull-request trigger. The workflow grants only the update job `contents: write`, serializes updates, stages only the SVG, and uses a normal push without force. Missing dates, duplicate dates, negative counts, inconsistent totals, GraphQL errors, and invalid owner-token permissions fail the update and keep the previous committed image. Its timestamp makes stale data visible. A failed configured token never silently falls back to a smaller total.
 

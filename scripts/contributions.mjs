@@ -39,13 +39,13 @@ export function render(stats, updated) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="490" viewBox="0 0 1120 490" role="img" aria-labelledby="title description">
 <title id="title">GitHub contribution activity</title><desc id="description">${xml(stats.total)} contributions from ${stats.from} to ${stats.to}; ${stats.last30} in the last 30 calendar days. ${xml(stats.coverage)}. First and last months may be partial.</desc>
 <rect x="1" y="1" width="1118" height="488" rx="18" fill="#0b1220" stroke="#294055"/>
-<g font-family="Arial, Helvetica, sans-serif">${text(40,48,'GITHUB ACTIVITY',19,'#f2f6ff')}${text(40,78,stats.from+' — '+stats.to+' · 365 calendar days',14)}
-${text(40,128,stats.total.toLocaleString('en-US'),38,'#7de7cd')}${text(40,155,'Contributions · 365 days')}
-${text(450,128,stats.last30.toLocaleString('en-US'),38,'#7de7cd')}${text(450,155,'Contributions · last 30 days')}
+<g font-family="Arial, Helvetica, sans-serif">${text(40,48,'GITHUB ACTIVITY',19,'#f2f6ff')}${text(40,78,stats.from+' - '+stats.to+' | 365 calendar days',14)}
+${text(40,128,stats.total.toLocaleString('en-US'),38,'#7de7cd')}${text(40,155,'Contributions | 365 days')}
+${text(450,128,stats.last30.toLocaleString('en-US'),38,'#7de7cd')}${text(450,155,'Contributions | last 30 days')}
 ${text(40,187,stats.coverage,14)}${bars}
-${text(40,429,'Monthly totals · First / last months may be partial · Today is still in progress',13)}
+${text(40,429,'Monthly totals | First / last months may be partial | Today is still in progress',13)}
 ${text(40,452,'GitHub contribution rules apply. Repository names and source code are never queried.',13)}
-${text(40,475,'Updated '+updated.toISOString().slice(0,16).replace('T',' ')+' UTC · Snapshot; scheduled every 6 hours',12)}</g></svg>\n`;
+${text(40,475,'Updated '+updated.toISOString().slice(0,16).replace('T',' ')+' UTC | Snapshot; scheduled every 6 hours',12)}</g></svg>\n`;
 }
 
 async function main() {
@@ -73,7 +73,7 @@ async function main() {
   const stats=summarize(body.data.user.contributionsCollection,start,end,ownerToken);
   await mkdir('assets',{recursive:true});
   // Only the aggregate SVG is persisted. No API payload, repo data, or credentials.
-  await writeFile('assets/contributions.svg',render(stats,end));
+  await writeFile('assets/github-activity.svg',render(stats,end));
   console.log('Validated contribution calendar; generated aggregate SVG.');
 }
 

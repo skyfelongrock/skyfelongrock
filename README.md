@@ -57,7 +57,7 @@ I like changes that solve a concrete problem, are easy to review, and leave the 
 
 <p align="center">
   <a href="https://github.com/skyfelongrock?tab=overview">
-    <img src="https://raw.githubusercontent.com/skyfelongrock/skyfelongrock/master/assets/contributions.svg?v=2" alt="GitHub contribution calendar: monthly totals, last 365 days and last 30 days, with coverage and update timestamp" width="1120" />
+    <img src="./assets/github-activity.svg" alt="GitHub contribution calendar: monthly totals, last 365 days and last 30 days, with coverage and update timestamp" width="1120" />
   </a>
   <br />
   <sub>GitHub calendar contributions · Last 365 / 30 calendar days · Updated automatically every 6 hours</sub>
